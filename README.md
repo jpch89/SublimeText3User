@@ -6,11 +6,11 @@
 
 ## 快捷键一览
 由于习惯了 `Jetbrains` 系的 `IDE`，我把 `Sublime Text 3` 的很多快捷键做了改动。
-- `Ctrl + d`：复制行
-- `Shift + Enter`：在下方新建一行
-- `Ctrl + Alt + l`：自动 `PEP 8` 格式化
-- `Shift + f10`：运行 `.py` 文件
-- `Ctrl + Shift + t`：在当前位置打开终端
+- `ctrl + d`：复制行
+- `shift + enter`：在下方新建一行
+- `ctrl + alt + l`：自动 `PEP 8` 格式化
+- `shift + 10`：运行 `.py` 文件
+- `ctrl + shift + t`：在当前位置打开终端
 
 ## 参考资料
 - https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494/2
