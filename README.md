@@ -7,8 +7,8 @@
 ## 安装步骤
 - 新安装 `Sublime Text 3` 并输入 `License`
 - 安装 `Package Control`：https://packagecontrol.io/installation
-- 复制本仓库到上述**文件夹路径**
-- 重启 `Sublime Text 3`，等待 `Package Control` 安装所有插件
+- 关闭 `Sublime Text 3`，然后复制本仓库到上述**文件夹路径**
+- 启动 `Sublime Text 3`，等待 `Package Control` 安装所有插件
 
 ## 快捷键一览
 由于习惯了 `Jetbrains` 系的 `IDE`，我把 `Sublime Text 3` 的很多快捷键做了改动。
