@@ -3,6 +3,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_options":
 	[
@@ -19,6 +20,7 @@
 	"tab_size": 4,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": true
 }
