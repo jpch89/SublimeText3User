@@ -15,4 +15,14 @@
         "command": "anaconda_auto_format", "keys": ["ctrl+alt+l"], "context": [
             {"key": "selector", "operator": "equal", "operand": "source.python"}
         ]},
+    {
+        "keys": ["shift+f1"],
+        "caption": "SublimeREPL: Python",
+        "command": "run_existing_window_command",
+        "args":
+        {
+            "id": "repl_python",
+            "file": "config/Python/Main.sublime-menu"
+        }
+    }
 ]
