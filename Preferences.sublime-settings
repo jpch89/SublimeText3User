@@ -3,6 +3,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_options":
@@ -10,6 +11,7 @@
 		"gdi"
 	],
 	"font_size": 14,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 	],
