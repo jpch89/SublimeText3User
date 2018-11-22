@@ -1,0 +1,204 @@
+{
+	"accent_color": "$scheme_accent_color",
+	"skin":
+	{
+		"id": "classic",
+		"settings":
+		{
+			"console_panel_padding": "$output_panel_padding",
+			"console_panel_scrollbar_margin": "$scrollbar_margin",
+			"find_in_files_panel_padding": "$panel_padding",
+			"find_n_replace_panel_padding":
+			[
+				12,
+				12,
+				6,
+				12
+			],
+			"grid_layout_border_color": "$tabset_background_color",
+			"grid_layout_border_width": 1,
+			"icon_opacity": 0.55,
+			"input_border_width": 0,
+			"label_foreground_color":
+			[
+				"specify",
+				[
+					"tint",
+					"$background_color",
+					0.55
+				],
+				[
+					"shade",
+					"$background_color",
+					0.55
+				]
+			],
+			"output_panel_padding":
+			[
+				10,
+				10
+			],
+			"overlay_background_color":
+			[
+				"specify",
+				[
+					"tint",
+					"$background_color",
+					0.05
+				],
+				[
+					"shade",
+					"$background_color",
+					0.05
+				]
+			],
+			"overlay_input_background_color": "$background_color",
+			"overlay_input_padding":
+			[
+				8,
+				6
+			],
+			"overlay_padding": 8,
+			"overlay_scrollbar_margin": 0,
+			"overlay_shadow_opacity": 0.0,
+			"overlay_top_offset": 0,
+			"panel_border_width": 0,
+			"panel_text_output_background_color": "$background_color",
+			"project_panel_padding": 6,
+			"quick_panel_row_padding":
+			[
+				10,
+				9
+			],
+			"scrollbar_width": 6,
+			"show_overlay_input_search_icon": false,
+			"show_status_panel_button": true,
+			"show_tab_scroll_buttons": true,
+			"sidebar_background_color": "$overlay_background_color",
+			"sidebar_border_width": 0,
+			"sidebar_file_icon_color_on_selected": "$icon_color_on_hover",
+			"sidebar_folder_icon_color_on_expanded": "",
+			"sidebar_folder_icon_color_on_expanded_hover": "",
+			"sidebar_folder_icon_color_on_selected": "$icon_color_on_hover",
+			"sidebar_label_foreground_color_on_expanded": "",
+			"sidebar_padding": 0,
+			"sidebar_tree_row_background_color_on_hover":
+			[
+				"specify",
+				[
+					"rgba",
+					255,
+					255,
+					255,
+					0.05
+				],
+				[
+					"rgba",
+					0,
+					0,
+					0,
+					0.05
+				]
+			],
+			"status_bar_background_color":
+			[
+				"specify",
+				[
+					"shade",
+					"$background_color",
+					0.2
+				],
+				[
+					"shade",
+					"$background_color",
+					0.1
+				]
+			],
+			"status_bar_border_width": 0,
+			"status_bar_padding":
+			[
+				12,
+				7,
+				4,
+				7
+			],
+			"tab_background_color":
+			[
+				"specify",
+				[
+					"tint",
+					"$view_background_color",
+					0.1
+				],
+				[
+					"shade",
+					"$view_background_color",
+					0.1
+				]
+			],
+			"tab_background_color_on_hover":
+			[
+				"specify",
+				[
+					"rgba",
+					255,
+					255,
+					255,
+					0.05
+				],
+				[
+					"rgba",
+					0,
+					0,
+					0,
+					0.05
+				]
+			],
+			"tab_background_color_on_selected": "$view_background_color",
+			"tab_close_button_always_visible": true,
+			"tab_flavor": "classic",
+			"tab_height": 33,
+			"tab_line_flavor": "",
+			"tab_overlap": 19,
+			"tab_padding":
+			[
+				24,
+				8,
+				24,
+				9
+			],
+			"tabset_background_color": "$overlay_background_color",
+			"tabset_line_height": 0,
+			"tabset_padding":
+			[
+				0,
+				4,
+				0,
+				0
+			],
+			"title_bar_background_color": "$tabset_background_color",
+			"toggle_button_background_color_on_selected":
+			[
+				"specify",
+				[
+					"rgba",
+					255,
+					255,
+					255,
+					0.05
+				],
+				[
+					"rgba",
+					0,
+					0,
+					0,
+					0.05
+				]
+			],
+			"tool_tip_background_color": "#fcf8e3",
+			"tool_tip_border_color": "#faf2cc",
+			"tool_tip_border_width": 1,
+			"tool_tip_label_foreground_color": "#8a6d3b"
+		}
+	}
+}

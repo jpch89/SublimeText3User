@@ -5,13 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Anaconda",
+		"Color Highlighter",
+		"ColorPicker",
+		"DA UI",
 		"Emmet",
 		"MarkdownPreview",
 		"More Layouts",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeREPL",
-		"Terminal"
+		"Terminal",
+		"Theme - Spacegray",
+		"Transparency"
 	]
 }
