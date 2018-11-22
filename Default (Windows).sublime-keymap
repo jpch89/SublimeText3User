@@ -9,7 +9,7 @@
         {
             "id": "repl_python_run",
             "file": "config/Python/Main.sublime-menu"
-        } 
+        }
     },
     {
         "command": "anaconda_auto_format", "keys": ["ctrl+alt+l"], "context": [
