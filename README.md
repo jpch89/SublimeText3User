@@ -12,11 +12,35 @@
 
 ## 快捷键一览
 由于习惯了 `Jetbrains` 系的 `IDE`，我把 `Sublime Text 3` 的很多快捷键做了改动。
+这里放一份常用快捷键备忘。
 - `ctrl + d`：复制行
 - `shift + enter`：在下方新建一行
 - `ctrl + alt + l`：自动 `PEP 8` 格式化
 - `shift + 10`：运行 `.py` 文件
 - `ctrl + shift + t`：在当前位置打开终端
+- `ctrl + 数字`：切换工作区
+- `ctrl + w`：关闭标签页
+
+**`vim` 模式常用快捷键**
+- `hjkl` 左下上右
+- `w` 下一词首
+- `e` 下一词尾
+- `b` 上一词首
+- `0` 行首
+- `^` 行首（不含空格）
+- `$` 行尾
+- `gg` 文件头
+- `G` 文件尾
+- `i` 光标后插入
+- `I` 行末插入
+- `a` 光标前插入
+- `A` 行首插入
+- `o` 下方新开一行
+- `O` 上方新开一行
+- `v` 可视模式
+- `V` 行可视模式
+- `ctrl + b` 上一页
+- `ctrl + f` 下一页
 
 ## 参考资料
 - https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494/2
