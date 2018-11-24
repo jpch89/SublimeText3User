@@ -1,3 +1,13 @@
 {
-	"opacity": 243
+	"autoapply": true,
+	"levels":
+	[
+		255,
+		230,
+		235,
+		240,
+		245,
+		250
+	],
+	"opacity": 250
 }
