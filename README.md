@@ -3,6 +3,7 @@
 
 ## 文件夹路径
 - `Windows`：`C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\User`
+- `Linux`：`~/.config/sublime-text-3/Packages/User`
 
 ## 安装步骤
 - 新安装 `Sublime Text 3` 并输入 `License`
