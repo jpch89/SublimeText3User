@@ -24,5 +24,9 @@
             "id": "repl_python",
             "file": "config/Python/Main.sublime-menu"
         }
+    },
+    {
+        "keys": ["ctrl+shift+c"],
+        "command": "copy_path"
     }
 ]
