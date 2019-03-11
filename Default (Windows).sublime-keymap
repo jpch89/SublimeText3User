@@ -1,6 +1,12 @@
 [
-    { "keys": ["ctrl+d"], "command": "duplicate_line" },
-    { "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line.sublime-macro"} },
+	{
+        "keys": ["ctrl+d"], "command": "duplicate_line"
+    },
+    {
+        "keys": ["shift+enter"],
+        "command": "run_macro_file",
+        "args": {"file": "res://Packages/Default/Add Line.sublime-macro"}
+    },
     {
         "keys": ["shift+f10"],
         "caption": "SublimeREPL: Python",
@@ -28,5 +34,29 @@
     {
         "keys": ["ctrl+shift+c"],
         "command": "copy_path"
+	},
+    {
+        "keys": ["ctrl+shift+t"],
+        "command": "open_terminal_project_folder",
+        "args": {"parameters": ["-T", "Working in directory %CWD%"]}
+    },
+    {
+        "keys": ["ctrl+alt+t"],
+        "command": "open_terminal",
+        "args": {"parameters": ["-T", "Working in directory %CWD%"]}
+    },
+    {
+        "keys": ["shift+f6"],
+        "command": "side_bar_rename",
+    },
+    {
+        "keys": ["ctrl+b"],
+        "command": "side_bar_open_in_browser" ,
+        "args":{"browser":"chrome"}
+    },
+    {
+        "keys": ["alt+b"],
+        "command": "side_bar_open_in_browser" ,
+        "args":{"browser":"firefox"}
     }
 ]
