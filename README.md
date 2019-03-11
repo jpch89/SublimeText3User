@@ -42,8 +42,8 @@
 - `ctrl + w`：关闭标签页
 - `ctrl + shift + c`：拷贝路径
 - `ctrl + alt + c`：打开拾色器
-- `ctrl + b`：用 `Chrome` 打开当前文件
-- `alt + b`：用 `Firefox` 打开当前文件
+- `alt + b`：用 `Chrome` 打开当前文件
+- `ctrl + alt + b`：用 `Firefox` 打开当前文件
 - `shift + f6`：重命名文件
 
 **`vim` 模式常用快捷键**
