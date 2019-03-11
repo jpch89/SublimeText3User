@@ -51,12 +51,16 @@
     },
     {
         "keys": ["ctrl+b"],
-        "command": "side_bar_open_in_browser" ,
+        "command": "side_bar_open_in_browser",
         "args":{"browser":"chrome"}
     },
     {
         "keys": ["alt+b"],
-        "command": "side_bar_open_in_browser" ,
+        "command": "side_bar_open_in_browser",
         "args":{"browser":"firefox"}
+    },
+    {
+        "keys": ["ctrl+alt+c"],
+        "command": "color_pick"
     }
 ]

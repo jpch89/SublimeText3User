@@ -2,24 +2,26 @@
 本仓库存放自用的 Sublime Text 3 的 User 文件夹，以便在多设备之间同步配置。
 
 ## 已安装插件一览
-- `Package Control` 包管理工具
+- `A File Icon` 美化侧边栏图标
 - `Anaconda` 格式化代码插件
-- `Emmet` 前端插件（依赖于 `PyV8`，会自动安装）
+- `Color Highlight` `CSS` 颜色高亮插件，优于 `Color Highlighter`
+- `ColorPicker` 拾色器插件
+- `Emmet` 前端必备插件（依赖于 `PyV8`，会自动安装）
 - `More Layouts` 布局插件
+- `Package Control` 包管理工具
 - `Colorsublime` 颜色主题，选择 `dropin`
+- `SideBarEnhancements` 增强侧边栏（用于设置浏览器打开、更改文件名快捷键）
 - `SublimeREPL` 运行 `Python` 脚本所需插件
 - `Terminal` 快速开启终端插件
-- `SideBarEnhancements` 增强侧边栏（可以配置用浏览器打开文件）
-- `A File Icon` 美化侧边栏图标
 
 ## 文件夹路径
-- `Windows`：`C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\User`
-- `Linux`：`~/.config/sublime-text-3/Packages/User`
+- `Windows`：`C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\`
+- `Linux`：`~/.config/sublime-text-3/Packages/`
 
 ## 安装步骤
 - 新安装 `Sublime Text 3` 并输入 `License`
 - 安装 `Package Control`：https://packagecontrol.io/installation
-- 关闭 `Sublime Text 3`，然后复制本仓库到上述**文件夹路径**
+- 关闭 `Sublime Text 3`，然后复制本仓库的两个文件夹到上述**文件夹路径**
 - 启动 `Sublime Text 3`，等待 `Package Control` 安装所有插件（*并没有任何提示，需要耐心等待*）
 
 ## 快捷键一览
@@ -34,6 +36,10 @@
 - `ctrl + 数字`：切换工作区
 - `ctrl + w`：关闭标签页
 - `ctrl + shift + c`：拷贝路径
+- `ctrl + alt + c`：打开拾色器
+- `ctrl + b`：用 `Chrome` 打开当前文件
+- `alt + b`：用 `Firefox` 打开当前文件
+- `shift + f6`：重命名文件
 
 **`vim` 模式常用快捷键**
 - `hjkl` 左下上右
