@@ -10,6 +10,7 @@
 - `SublimeREPL` 运行 `Python` 脚本所需插件
 - `Terminal` 快速开启终端插件
 - `SideBarEnhancements` 增强侧边栏（可以配置用浏览器打开文件）
+- `A File Icon` 美化侧边栏图标
 
 ## 文件夹路径
 - `Windows`：`C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\User`
