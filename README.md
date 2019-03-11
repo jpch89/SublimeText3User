@@ -30,7 +30,7 @@
 - `ctrl + alt + l`：自动 `PEP 8` 格式化
 - `shift + 10`：运行 `.py` 文件
 - `ctrl + alt + t`：在当前位置打开终端（与 `Ubuntu` 保持一致）
-- `ctrl + shfit + t`：打开当前目录
+- `ctrl + shfit + t`：在项目位置打开终端
 - `ctrl + 数字`：切换工作区
 - `ctrl + w`：关闭标签页
 - `ctrl + shift + c`：拷贝路径
