@@ -7,12 +7,17 @@
 - `Color Highlight` `CSS` 颜色高亮插件，优于 `Color Highlighter`
 - `ColorPicker` 拾色器插件
 - `Emmet` 前端必备插件（依赖于 `PyV8`，会自动安装）
+- `MarkdownEditing` `md` 语法高亮插件
 - `More Layouts` 布局插件
 - `Package Control` 包管理工具
 - `Colorsublime` 颜色主题，选择 `dropin`
 - `SideBarEnhancements` 增强侧边栏（用于设置浏览器打开、更改文件名快捷键）
 - `SublimeREPL` 运行 `Python` 脚本所需插件
+- `SublimeTmpl` 快速新建模板文件
 - `Terminal` 快速开启终端插件
+
+## 试用中插件（未包含于此仓库）
+- `CSS3` 严格遵循 `W3C` 标准的代码补全、高亮插件
 
 ## 文件夹路径
 - `Windows`：`C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\`

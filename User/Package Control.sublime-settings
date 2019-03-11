@@ -11,10 +11,12 @@
 		"ColorPicker",
 		"Colorsublime",
 		"Emmet",
+		"MarkdownEditing",
 		"More Layouts",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeREPL",
+		"SublimeTmpl",
 		"Terminal"
 	]
 }
