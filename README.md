@@ -1,6 +1,16 @@
 # SublimeText3User
 本仓库存放自用的 Sublime Text 3 的 User 文件夹，以便在多设备之间同步配置。
 
+## 已安装插件一览
+- `Package Control` 包管理工具
+- `Anaconda` 格式化代码插件
+- `Emmet` 前端插件
+- `More Layouts` 布局插件
+- `Colorsublime` 颜色主题，选择 `dropin`
+- `SublimeREPL` 运行 `Python` 脚本所需插件
+- `Terminal` 快速开启终端插件
+- `SideBarEnhancements` 增强侧边栏（可以配置用浏览器打开文件）
+
 ## 文件夹路径
 - `Windows`：`C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\User`
 - `Linux`：`~/.config/sublime-text-3/Packages/User`
@@ -18,9 +28,11 @@
 - `shift + enter`：在下方新建一行
 - `ctrl + alt + l`：自动 `PEP 8` 格式化
 - `shift + 10`：运行 `.py` 文件
-- `ctrl + shift + t`：在当前位置打开终端
+- `ctrl + alt + t`：在当前位置打开终端（与 `Ubuntu` 保持一致）
+- `ctrl + shfit + t`：打开当前目录
 - `ctrl + 数字`：切换工作区
 - `ctrl + w`：关闭标签页
+- `ctrl + shift + c`：拷贝路径
 
 **`vim` 模式常用快捷键**
 - `hjkl` 左下上右
