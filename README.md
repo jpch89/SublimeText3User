@@ -4,7 +4,7 @@
 ## 已安装插件一览
 - `Package Control` 包管理工具
 - `Anaconda` 格式化代码插件
-- `Emmet` 前端插件
+- `Emmet` 前端插件（依赖于 `PyV8`，会自动安装）
 - `More Layouts` 布局插件
 - `Colorsublime` 颜色主题，选择 `dropin`
 - `SublimeREPL` 运行 `Python` 脚本所需插件
