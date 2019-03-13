@@ -7,6 +7,7 @@
 - `Color Highlight` `CSS` 颜色高亮插件，优于 `Color Highlighter`
 - `ColorPicker` 拾色器插件
 - `Emmet` 前端必备插件（依赖于 `PyV8`，会自动安装）
+- `JsFormat` 格式化 `JavaScript` 代码
 - `MarkdownEditing` `md` 语法高亮插件
 - `More Layouts` 布局插件
 - `Package Control` 包管理工具
@@ -45,6 +46,7 @@
 - `alt + b`：用 `Chrome` 打开当前文件
 - `ctrl + alt + b`：用 `Firefox` 打开当前文件
 - `shift + f6`：重命名文件
+- `ctrl + shift + f`：格式化 `JavaScript` 代码
 
 **`vim` 模式常用快捷键**
 - `hjkl` 左下上右
