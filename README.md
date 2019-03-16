@@ -1,6 +1,10 @@
 # SublimeText3User
 本仓库存放自用的 Sublime Text 3 的 User 文件夹，以便在多设备之间同步配置。
 
+> **注意**
+> `3200` 版本中 `SublimeREPL` 插件无法通过快捷键调用。
+> 请使用本仓库的 `3176` 版本。
+
 ## 已安装插件一览
 - `A File Icon` 美化侧边栏图标
 - `Anaconda` 格式化代码插件
