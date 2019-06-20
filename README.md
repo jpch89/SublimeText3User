@@ -8,6 +8,7 @@
 - `Anaconda`：格式化代码插件
 - `Color Highlight`：`CSS` 颜色高亮插件，优于 `Color Highlighter`
 - `ColorPicker`：拾色器插件
+- `Djaneiro`：`Django` 开发插件，需要选择合适的文件类型才会生效
 - `Emmet`：前端必备插件（依赖于 `PyV8`，会自动安装）
 - `JsFormat`：格式化 `JavaScript` 代码
 - `MarkdownEditing`：`md` 语法高亮插件
