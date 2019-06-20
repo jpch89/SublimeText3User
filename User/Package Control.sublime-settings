@@ -10,6 +10,7 @@
 		"Color Highlight",
 		"ColorPicker",
 		"Colorsublime",
+		"Djaneiro",
 		"Emmet",
 		"JsFormat",
 		"MarkdownEditing",
@@ -18,6 +19,7 @@
 		"SideBarEnhancements",
 		"SublimeREPL",
 		"SublimeTmpl",
-		"Terminal"
+		"Terminal",
+		"Theme - Kronuz"
 	]
 }
