@@ -4,20 +4,20 @@
 > **注意**：`3200` 版本中 `SublimeREPL` 插件无法通过快捷键调用，请使用本仓库的 `3176` 版本。
 
 ## 已安装插件一览
-- `A File Icon` 美化侧边栏图标
-- `Anaconda` 格式化代码插件
-- `Color Highlight` `CSS` 颜色高亮插件，优于 `Color Highlighter`
-- `ColorPicker` 拾色器插件
-- `Emmet` 前端必备插件（依赖于 `PyV8`，会自动安装）
-- `JsFormat` 格式化 `JavaScript` 代码
-- `MarkdownEditing` `md` 语法高亮插件
-- `More Layouts` 布局插件
-- `Package Control` 包管理工具
-- `Colorsublime` 颜色主题，选择 `dropin`
-- `SideBarEnhancements` 增强侧边栏（用于设置浏览器打开、更改文件名快捷键）
-- `SublimeREPL` 运行 `Python` 脚本所需插件
-- `SublimeTmpl` 快速新建模板文件
-- `Terminal` 快速开启终端插件
+- `A File Icon`：美化侧边栏图标
+- `Anaconda`：格式化代码插件
+- `Color Highlight`：`CSS` 颜色高亮插件，优于 `Color Highlighter`
+- `ColorPicker`：拾色器插件
+- `Emmet`：前端必备插件（依赖于 `PyV8`，会自动安装）
+- `JsFormat`：格式化 `JavaScript` 代码
+- `MarkdownEditing`：`md` 语法高亮插件
+- `More Layouts`：布局插件
+- `Package Control`：包管理工具
+- `Colorsublime`：颜色主题，选择 `dropin`
+- `SideBarEnhancements`：增强侧边栏（用于设置浏览器打开、更改文件名快捷键）
+- `SublimeREPL`：运行 `Python` 脚本所需插件
+- `SublimeTmpl`：快速新建模板文件
+- `Terminal`：快速开启终端插件
 
 ## 试用中插件（未包含于此仓库）
 - `CSS3` 严格遵循 `W3C` 标准的代码补全、高亮插件
@@ -42,6 +42,7 @@
 - `ctrl + alt + t`：在当前位置打开终端（与 `Ubuntu` 保持一致）
 - `ctrl + shfit + t`：在项目位置打开终端
 - `ctrl + 数字`：切换工作区
+- `alt + 数字`：切换标签页
 - `ctrl + w`：关闭标签页
 - `ctrl + shift + c`：拷贝路径
 - `ctrl + alt + c`：打开拾色器
