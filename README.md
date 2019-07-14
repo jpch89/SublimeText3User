@@ -74,6 +74,7 @@
 - `V` 行可视模式
 - `ctrl + b` 上一页
 - `ctrl + f` 下一页
+- `jj` 从插入模式退出到普通模式
 
 ## 参考资料
 - https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494/2
