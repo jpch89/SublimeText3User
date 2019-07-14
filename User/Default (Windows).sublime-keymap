@@ -62,5 +62,14 @@
     {
         "keys": ["ctrl+alt+c"],
         "command": "color_pick"
-    }
+    },
+    {
+	"keys": ["j", "j"],
+	"command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
 ]
