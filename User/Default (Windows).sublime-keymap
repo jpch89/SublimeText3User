@@ -55,7 +55,7 @@
         "args":{"browser":"chrome"}
     },
     {
-        "keys": ["ctrl+alt+b"],
+        "keys": ["shift+alt+b"],
         "command": "side_bar_open_in_browser",
         "args":{"browser":"firefox"}
     },
